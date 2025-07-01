@@ -49,8 +49,4 @@ flowchart TD
     API --> File["File Module"]
 ```
 
-## Presentation Summary
-- **Modular Design:** Each business domain is isolated for maintainability and scalability.
-- **Security:** Follows best practices for API security.
-- **Extensible:** New modules can be added easily.
-- **Separation of Concerns:** Each module handles its own logic and routing.
+
